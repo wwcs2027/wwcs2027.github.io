@@ -11,7 +11,7 @@ title:  Application
 <!-- 
 Applications are now closed! Don’t worry if you missed the deadline — this workshop takes place every year, so you’ll get another chance next time. Bear in mind the following dates:
 -->
-We are still finishing the details to make sure this edition turns out to be unforgettable! Hence, no deadlines yet. Please stay tuned if you're that eager to come, and email us at <a href="mailto:wwcs2026@gmail.com"> here </a> for any question/query/comment!
+We are still finishing the details to make sure this edition turns out to be unforgettable! Hence, no deadlines yet. Please stay tuned if you're that eager to come, and email us <a href="mailto:wwcs2026@gmail.com"> here </a> for any question/query/comment!
 
 - Start of applications: **TBD**
 
