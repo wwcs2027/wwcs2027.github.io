@@ -88,7 +88,7 @@ You can contact us at [wwcs2027@gmail.com](mailto:wwcs2027@gmail.com) or write t
   <div class="committee-member">
     <img src="{{ page.image_base }}organizing/sara.jpeg" alt="Sara Ghivarello">
     <p><strong>Sara Ghivarello</strong></p>
-    <p><em> Department of Mathematics,Universidad Carlos III de Madrid </em></p>
+    <p><em> Department of Mathematics, Universidad Carlos III de Madrid </em></p>
   </div>
   <div class="committee-member">
     <img src="{{ page.image_base }}organizing/ele.jpeg" alt="Eleonora Gatti">
