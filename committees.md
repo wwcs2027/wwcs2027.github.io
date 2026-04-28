@@ -117,24 +117,24 @@ You can contact us at [wwcs2027@gmail.com](mailto:wwcs2027@gmail.com) or write t
     <p><em>Utrecht University, The Netherlands</em></p>
   </div>
   <div class="committee-member">
-    <img src="{{ page.image_base }}steering/fer.png" alt="Fernando Diaz Diaz">
-    <p><strong>Fernando Diaz Diaz</strong></p>
-    <p><em>University Carlos III, Madrid, Spain</em></p>
+    <img src="{{ page.image_base }}steering/jaume.jpg" alt="Jaume Llabrés">
+    <p><strong>Jaume Llabrés</strong></p>
+    <p><em> IFISC, Balearic Islands, Spain</em></p>
   </div>
   <div class="committee-member">
-    <img src="{{ page.image_base }}steering/miguel.png" alt="Miguel Ángel González Casado">
-    <p><strong>Miguel Ángel González Casado</strong></p>
-    <p><em>Universidad Carlos III Madrid, Spain</em></p>
+    <img src="{{ page.image_base }}steering/pedro.jpg" alt="Pedro Jiménez González">
+    <p><strong>Pedro Jiménez González</strong></p>
+    <p><em> IFISC, Balearic Islands, Spain </em></p>
   </div>
   <div class="committee-member">
-    <img src="{{ page.image_base }}steering/ari.jpeg" alt="Ariadna Fosch Muntané">
-    <p><strong>Ariadna Fosch Muntané</strong></p>
-    <p><em>BIFI, Zaragoza, Spain</em></p>
+    <img src="{{ page.image_base }}steering/sara.JPG" alt="Sara Oliver Bonafoux">
+    <p><strong>Sara Oliver Bonafoux</strong></p>
+    <p><em>IFISC, Balearic Islands, Spain</em></p>
   </div>
   <div class="committee-member">
-    <img src="{{ page.image_base }}steering/adam.png" alt="Adam Finnemann">
-    <p><strong>Adam Finnemann</strong></p>
-    <p><em>University van Amsterdam, The Netherlands</em></p>
+    <img src="{{ page.image_base }}steering/leonardo.JPG" alt="Leonardo Federici">
+    <p><strong>Leonardo Federici</strong></p>
+    <p><em>NetSI, Northeastern University London, UK</em></p>
   </div>
   <div class="committee-member">
     <img src="{{ page.image_base }}steering/natalia.png" alt="Natalia Briñas-Pascual">
