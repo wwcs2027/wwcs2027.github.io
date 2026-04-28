@@ -151,9 +151,11 @@ You can contact us at [wwcs2027@gmail.com](mailto:wwcs2027@gmail.com) or write t
     <p><strong>Pablo Rosillo-Rodes</strong></p>
     <p><em>IFISC, Balearic Islands, Spain</em></p>
   </div>
+  <!--
     <div class="committee-member">
     <img src="{{ page.image_base }}steering/irene.jpeg" alt="Irene Ferri">
     <p><strong>Irene Ferri</strong></p>
     <p><em>NetSI Roux, Northeastern University, Portland, US</em></p>
   </div>
 </div>
+-->
