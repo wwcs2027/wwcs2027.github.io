@@ -20,26 +20,26 @@ The **Winter Workshop on Complex Systems** is a one-week event where young resea
 
 **The primary focus of the workshop is for participants to engage into novel research projects.**
 
-The workshop already has a long history — you can learn more about its journey in the [About](https://wwcs2026.github.io/about) section — and 2026 will mark its 11th edition. The upcoming event will be held in [Santuari de Lluc](https://www.lluc.net/en/) (Mallorca, Spain) from **the 25th to the 30th of January 2026**. Previously, it has been hosted in [Lombardy](https://wwcs2025.github.io/), [La Vall d'en Bas](https://wwcs2024.github.io/), [Amsterdam](https://wwcs2023.github.io/), [Besançon](https://wwcs2022.github.io/), [Charmey](https://wwcs2020.github.io/), Zakopane, [Utrecht](https://wwcs2018.github.io/), [Petnica](https://wwcs2017ed.wixsite.com/wwcs), Madrid, and Brussels.
+The workshop already has a long history — you can learn more about its journey in the [About](https://wwcs2026.github.io/about) section — and 2026 will mark its 11th edition. The upcoming event will be held in [Santuari de Lluc](https://www.lluc.net/en/) (Mallorca, Spain) from **the 17th to the 22nd of January 2027**. Previously, it has been hosted in [Lombardy](https://wwcs2025.github.io/), [La Vall d'en Bas](https://wwcs2024.github.io/), [Amsterdam](https://wwcs2023.github.io/), [Besançon](https://wwcs2022.github.io/), [Charmey](https://wwcs2020.github.io/), Zakopane, [Utrecht](https://wwcs2018.github.io/), [Petnica](https://wwcs2017ed.wixsite.com/wwcs), Madrid, Brussels and [Mallorca](https://wwcs2026.github.io/).
 
 # Important Dates
 
 ## Workshop Dates:
 
--   **25th to 30th of January 2026**
+-   **17th to 22nd of January 2027**
 
 ## Applications:
 
-- Start of applications: **August 25th**
-- Deadline for applications: <del>October 6th</del> **EXTENDED UNTIL October 13th (23:59 CEST)**
-- Notification of acceptance: **November 6th**
+- Start of applications: **TBD**
+- Deadline for applications: <!--<del>October 6th</del>--> **TBD**
+- Notification of acceptance: **TBD**
 
 As applications are now closed, further information regarding the procedure is available in the [Application](https://wwcs2026.github.io/application) section.
 
 
 # Contacts
 
-Email us at: [wwcs2026@gmail.com](mailto:wwcs2026@gmail.com)
+Email us at: [wwcs2027@gmail.com](mailto:wwcs2076@gmail.com)
 
 [Follow us at Bluesky!](https://bsky.app/profile/wwcs.bsky.social)
 
