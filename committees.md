@@ -65,7 +65,7 @@ body {
 
 ## Contact Information
 
-You can contact us at [wwcs2026@gmail.com](mailto:wwcs2026@gmail.com) or write to us directly using the following information.
+You can contact us at [wwcs2027@gmail.com](mailto:wwcs2027@gmail.com) or write to us directly using the following information.
 
 ## Organizing Committee
 
@@ -76,28 +76,28 @@ You can contact us at [wwcs2026@gmail.com](mailto:wwcs2026@gmail.com) or write t
     <p><em> CHuB, Fondazione Bruno Kessler </em></p>
   </div>
   <div class="committee-member">
-    <img src="{{ page.image_base }}organizing/elena.jpg" alt="Elena García de Lamo">
-    <p><strong>Elena García de Lamo</strong></p>
-    <p><em>Universitat Politècnica de Cataluyna, Barcelona, Spain</em></p>
+    <img src="{{ page.image_base }}organizing/emile.jpeg" alt="Emile Emery">
+    <p><strong>Emile Emery</strong></p>
+    <p><em> LIED, Université Paris Cité, CNRS </em></p>
   </div>
   <div class="committee-member">
-    <img src="{{ page.image_base }}organizing/jaume.jpg" alt="Jaume Llabrés Rubio">
-    <p><strong>Jaume Llabrés Rubio</strong></p>
+    <img src="{{ page.image_base }}organizing/jun.jpeg" alt="Juan Antonio García">
+    <p><strong>Juan Antonio García</strong></p>
     <p><em>IFISC, Balearic Islands, Spain</em></p>
   </div>
   <div class="committee-member">
-    <img src="{{ page.image_base }}organizing/leonardo.JPG" alt="Leonardo Federici">
-    <p><strong>Leonardo Federici</strong></p>
-    <p><em>NetSI, Northeastern University London, UK</em></p>
+    <img src="{{ page.image_base }}organizing/sara.jpeg" alt="Sara Ghivarello">
+    <p><strong>Sara Ghivarello</strong></p>
+    <p><em> Department of Mathematics,Universidad Carlos III de Madrid </em></p>
   </div>
   <div class="committee-member">
-    <img src="{{ page.image_base }}organizing/pedro.jpg" alt="Pedro Jiménez González">
-    <p><strong>Pedro Jiménez González</strong></p>
-    <p><em>IFISC, Balearic Islands, Spain</em></p>
+    <img src="{{ page.image_base }}organizing/ele.jpg" alt="Eleonora Gatti">
+    <p><strong>Eleonora Gatti</strong></p>
+    <p><em>University of Konstanz</em></p>
   </div>
   <div class="committee-member">
-    <img src="{{ page.image_base }}organizing/sara.JPG" alt="Sara Oliver Bonafoux">
-    <p><strong>Sara Oliver Bonafoux</strong></p>
+    <img src="{{ page.image_base }}organizing/carlo.jpeg" alt="Carlotta Nunzi">
+    <p><strong>Carlotta Nunzi</strong></p>
     <p><em>IFISC, Balearic Islands, Spain</em></p>
   </div>
 
