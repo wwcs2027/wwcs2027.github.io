@@ -71,9 +71,9 @@ You can contact us at [wwcs2026@gmail.com](mailto:wwcs2026@gmail.com) or write t
 
 <div class="organizing-committee">
   <div class="committee-member">
-    <img src="{{ page.image_base }}organizing/andres.jpg" alt="Andrés Guzman">
-    <p><strong>Andrés Guzman</strong></p>
-    <p><em>NetSI, Northeastern University London, UK </em></p>
+    <img src="{{ page.image_base }}organizing/bea.jpeg" alt="Beatriz Arregui">
+    <p><strong>Beatriz Arregui</strong></p>
+    <p><em> CHuB, Fondazione Bruno Kessler </em></p>
   </div>
   <div class="committee-member">
     <img src="{{ page.image_base }}organizing/elena.jpg" alt="Elena García de Lamo">
