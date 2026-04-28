@@ -81,7 +81,7 @@ You can contact us at [wwcs2027@gmail.com](mailto:wwcs2027@gmail.com) or write t
     <p><em> LIED, Université Paris Cité, CNRS </em></p>
   </div>
   <div class="committee-member">
-    <img src="{{ page.image_base }}organizing/jun.jpeg" alt="Juan Antonio García">
+    <img src="{{ page.image_base }}organizing/jun.jpg" alt="Juan Antonio García">
     <p><strong>Juan Antonio García</strong></p>
     <p><em>IFISC, Balearic Islands, Spain</em></p>
   </div>
@@ -91,7 +91,7 @@ You can contact us at [wwcs2027@gmail.com](mailto:wwcs2027@gmail.com) or write t
     <p><em> Department of Mathematics,Universidad Carlos III de Madrid </em></p>
   </div>
   <div class="committee-member">
-    <img src="{{ page.image_base }}organizing/ele.jpg" alt="Eleonora Gatti">
+    <img src="{{ page.image_base }}organizing/ele.jpeg" alt="Eleonora Gatti">
     <p><strong>Eleonora Gatti</strong></p>
     <p><em>University of Konstanz</em></p>
   </div>
