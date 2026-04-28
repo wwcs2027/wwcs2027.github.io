@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Committees
-image_base: /assets/image26/committees/
+image_base: /assets/image27/committees/
 ---
 
 <style>
