@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: about #home il layout home ti mette la lista di pagine
 image_base: /assets/image26/logo/
-title: Winter Workshop on Complex Systems 2026
+title: Winter Workshop on Complex Systems 2027
 
 ---
 <style>
