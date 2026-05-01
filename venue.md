@@ -37,7 +37,7 @@ image_base: /assets/image27/venue/
 </style>
 
 
-Located in the immediate vicinity of Briançon, [Le Clos du Vas](https://archipel-vacances.fr/le-clos-du-vas/) is set in a quiet, natural setting, with a large forest. This privileged location will allow the participants to enhance deeply in their work in a relaxed evnironment as well as to enjoy doing many different activities.
+Located in the immediate vicinity of Briançon, [Le Clos du Vas](https://archipel-vacances.fr/le-clos-du-vas/) is set in a quiet, natural setting, with a large forest. This privileged location will allow the participants to enhance deeply in their work in a relaxed environment as well as to enjoy doing many different activities.
 
 The venue offers shared rooms and three spacious workplaces that can be adapted for presentations or collaborative work. One of said rooms also features a ping-pong table and a table football.
 
