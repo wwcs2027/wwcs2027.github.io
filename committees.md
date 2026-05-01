@@ -81,7 +81,7 @@ You can contact us at [wwcs2027@gmail.com](mailto:wwcs2027@gmail.com) or write t
     <p><em> LIED, Université Paris Cité, CNRS </em></p>
   </div>
   <div class="committee-member">
-    <img src="{{ page.image_base }}organizing/jun.jpg" alt="Juan Antonio García">
+    <img src="{{ page.image_base }}organizing/jun_2.jpg" alt="Juan Antonio García">
     <p><strong>Juan Antonio García</strong></p>
     <p><em>IFISC, Balearic Islands, Spain</em></p>
   </div>
