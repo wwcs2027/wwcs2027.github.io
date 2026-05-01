@@ -56,9 +56,9 @@ The venue takes care of all your meals, considering various dietary requirements
 
 ## Travel information
 
-Turin is easily accessible by train or by plane, with direct flights from most European countries. [Check whether your city has direct flights](https://www.flightconnections.com/flights-to-turin-trn). 
+The workshop will begin with a social event in Turin, which is easily accessible by train or by plane as it has direct flights from most European countries. [Check whether your city has direct flights](https://www.flightconnections.com/flights-to-turin-trn). 
 
-The venue is approximately a two-hour drive from Turin, which will serve as the meeting point for the event. We will depart from Turin on Sunday evening, after the social event. More detailed information on the specific meeting place will be given in the following months.
+The venue is approximately a two-hour drive from Turin. We will depart from Turin on Sunday evening, after the social event. More detailed information on the specific meeting place will be given in the following months.
 
 <!--
 <div class="image-row">
