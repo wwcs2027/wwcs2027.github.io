@@ -51,6 +51,8 @@
 }
 </style>
 
+<!--
+
 <div class="sponsor-container">
 
   <a class="sponsor-link" href="https://ifisc.uib-csic.es/en/" target="_blank">
@@ -139,7 +141,7 @@
   </a>
 
 
-
+-->
 
 
 </div>
