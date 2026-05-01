@@ -56,11 +56,11 @@ The venue takes care of all your meals, considering various dietary requirements
 
 ## Travel information
 
-Palma de Mallorca is easily accessible by plane, with direct flights from most European countries. [Check whether your city has direct flights](https://www.flightconnections.com/flights-to-palma-de-mallorca-pmi). 
+Turin is easily accessible by train or by plane, with direct flights from most European countries. [Check whether your city has direct flights](https://www.flightconnections.com/flights-to-turin-trn). 
 
-The venue is approximately a one-hour drive from Palma, which will serve as the meeting point for the event. We will depart from Palma on Sunday evening, after the social event. The meeting point will be Casal de Barri Es Jonquet, located at Carrer Terrer, 10. This historic building, a preserved old windmill, offers beautiful views of the city and the port. It can be reached in about 15 minutes by car from the airport and is also accessible via a direct bus line.
+The venue is approximately a two-hour drive from Turin, which will serve as the meeting point for the event. We will depart from Turin on Sunday evening, after the social event. More detailed information on the specific meeting place will be given in the following months.
 
-
+<!--
 <div class="image-row">
   <div class="image-col" style="flex: 3;">
     <img src="{{ page.image_base }}es_jonquet_view.png" alt="Es Jonquet view">
@@ -69,6 +69,7 @@ The venue is approximately a one-hour drive from Palma, which will serve as the 
     <img src="{{ page.image_base }}es_jonquet.jpg" alt="Casal de Barri Es Jonquet">
   </div>
 </div>
+-->
 
  
 
