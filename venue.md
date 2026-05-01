@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Venue
-image_base: /assets/image26/venue/
+image_base: /assets/image27/venue/
 ---
 
 <style>
@@ -37,20 +37,20 @@ image_base: /assets/image26/venue/
 </style>
 
 
-[Santuari de Lluc](https://www.lluc.net/en/) is an ancient monastery located in the heart of the Serra de Tramuntana, an outstanding mountain range in the north of Mallorca Island. This spiritual center has been a place of pilgrimage for centuries, making it an ideal place to study, connect with nature and immerse yourself in the culture of the region.
+Located in the immediate vicinity of Briançon, [Le Clos du Vas](https://archipel-vacances.fr/le-clos-du-vas/) is set in a quiet, natural setting, with a large forest. This privileged location will allow the participants to enhance deeply in their work in a relaxed evnrionment as well as to enjoy doing many different activities.
 
-The venue offers double rooms with private bathrooms and spacious meeting rooms that can be adapted for presentations or collaborative work. It also features inviting outdoor areas — not only within the accommodation grounds, which even include a botanical garden, but also throughout the surrounding Tramuntana mountains, with numerous hiking routes suitable for all levels.
+The venue offers shared rooms and three spacious workplaces that can be adapted for presentations or collaborative work. One of said rooms also features a ping-pong table and a table football.
 
-The venue takes care of all your meals and coffee breaks, considering various dietary requirements, including vegan, vegetarian, gluten-free, and allergy restrictions.
+The venue takes care of all your meals, considering various dietary requirements, including vegan, vegetarian, gluten-free, and allergy restrictions.
 
-<img src="{{ page.image_base }}santuaridelluc.jpeg" width="100%" alt="Santuari de Lluc, building"/>
+<img src="{{ page.image_base }}venue_outside.jpg" width="100%" alt="Le Clos du Vas, building"/>
 
 <div class="image-row">
   <div class="image-col" style="flex: 3;">
-    <img src="{{ page.image_base }}double_room.jpg" alt="Double Room">
+    <img src="{{ page.image_base }}venue_room.jpg" alt="Participants' Room">
   </div>
   <div class="image-col" style="flex: 2;">
-    <img src="{{ page.image_base }}meeting_room.jpg" alt="Meeting Room">
+    <img src="{{ page.image_base }}venue_meeting_room.jpg" alt="Meeting Room">
   </div>
 </div>
 
