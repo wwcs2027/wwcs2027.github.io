@@ -51,6 +51,8 @@
 }
 </style>
 
+<!--
+
 
 <div class="partner-container">
   <a class="partner-link" href="https://ysi.ineteconomics.org/" target="_blank">
@@ -81,3 +83,5 @@
     </div>
   </a>
 </div>
+
+-->
