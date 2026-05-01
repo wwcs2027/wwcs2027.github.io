@@ -111,20 +111,26 @@ The workshop includes talks by invited speakers, participants' tutorials, and ti
 **Main activities:**
 
 
--  Keynote talks: The workshop will feature three keynote lectures. Rafael Prieto-Curiel, Carmen Cabrera-Arnau, and Luis F. Seoane have been confirmed as keynote speakers. Each keynote will last 90 minutes. The event will conclude on Friday with a closing lecture by Maxi San Miguel, followed by project presentation. 
+-  Keynote talks: The workshop will feature three keynote lectures from speakers coming from many different backgrounds to ensure we cover a wide range of topics from the Complex Systems world. Alessandro Laio and Floriana Gargiulo have been confirmed as keynote speakers. Each keynote will last 90 minutes. The event will conclude on Friday 22nd with a closing event, followed by project presentation. 
 
 
 
 -   Tutorials: There will be two or three tutorials, each lasting approximately 45 minutes, although this may change depending on the number of proposals and the level of interest generated. The purpose of a tutorial is to give students enough time to present their work in detail and delve into topics and techniques that may be of interest to other participants. If desired, it can include a hands-on session. The application form will include a section for describing any proposed tutorial, but selection will be made by the participants through a poll, so the most interesting tutorials can be chosen.
 
 
-
 -   Projects: Participants will split into groups and will formalize a research question. Preliminary results will be presented on the final day of the workshop. Attendees are encouraged to propose their own research questions so groups with shared interests can naturally form. Project proposals will be presented on Monday during the Project discussion.
 
 **Social activities:**
 
+Since it is a bit early to spoil things out, we will keep some secrets for later!  Confirmed ones are:
 
--   Social event in Palma de Mallorca before leaving for the venue at Casal de barri Es Jonquet (Carrer Terrer, 10).
+- Gathering and social event in Turing before leaving for the venue.
+- Night games and activities.
+
+Please stay tuned to see what kind of non-scientifically related activities we will offer!
+<!--
+
+-   Social event in Turin before leaving for the venue. at Casal de barri Es Jonquet (Carrer Terrer, 10).
 
 -   Hiking through Tramuntana montains to enjoy Mallorca’s stunning landscapes.
 
@@ -134,7 +140,9 @@ The workshop includes talks by invited speakers, participants' tutorials, and ti
 
 -   Night games and activities.
 
+-->
 
+<!--
 **Final Timetable:**
 
 <div id="tab">
@@ -311,6 +319,7 @@ The workshop includes talks by invited speakers, participants' tutorials, and ti
 
             var win = window.open('', '', 'height=700,width=700');
             win.document.write('<html><head><title>Timetable for WWCS 2026</title>' + style + '</head><body>');
+-->
             win.document.write(sTitle);
             win.document.write(sTable);
             win.document.write('</body></html>');
