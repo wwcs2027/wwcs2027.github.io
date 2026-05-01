@@ -6,6 +6,7 @@ image_base: /assets/image26/logo/
 title: Winter Workshop on Complex Systems 2027
 
 ---
+<!--
 <style>
     body {
       text-align: justify;
@@ -15,7 +16,7 @@ title: Winter Workshop on Complex Systems 2027
 <center>
   <img src="{{ page.image_base }}logo_sign_no_back.png" style="width: 50%;" />
 </center>
-
+-->
 The **Winter Workshop on Complex Systems** is a one-week event where young researchers worldwide come together to work on interdisciplinary projects  in the field of complex systems.
 
 **The primary focus of the workshop is for participants to engage into novel research projects.**
