@@ -72,8 +72,8 @@ The venue is approximately a two-hour drive from Turin. We will depart from Turi
 -->
 
  
-
+<!--
 [Casal de Barri Es Jonquet in Goolge Maps](https://maps.app.goo.gl/sB7wmCjpzLr5WrUn8)
-
-[Santuari de Lluc in Goolge Maps](https://maps.app.goo.gl/U1ga8xL8L5AyfhVHA)
+-->
+[Le Clos du Vas in Google Maps](https://maps.app.goo.gl/PZ6KPqJ5GfRYAXea8)
 
