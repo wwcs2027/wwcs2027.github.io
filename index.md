@@ -35,7 +35,7 @@ The workshop already has a long history — you can learn more about its journey
 - Deadline for applications: <!--<del>October 6th</del>--> **TBD**
 - Notification of acceptance: **TBD**
 
-<!--As applications are now closed,--> Further information regarding the procedure is available in the [Application](https://wwcs2026.github.io/application) section.
+<!--As applications are now closed,--> Further information regarding the procedure is available in the [Application](https://wwcs2027.github.io/application) section.
 
 
 # Contacts
