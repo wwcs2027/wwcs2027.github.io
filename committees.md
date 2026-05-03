@@ -76,7 +76,7 @@ You can contact us at [wwcs2027@gmail.com](mailto:wwcs2027@gmail.com) or write t
     <p><em> CHuB, Fondazione Bruno Kessler </em></p>
   </div>
   <div class="committee-member">
-    <img src="{{ page.image_base }}organizing/emile.jpeg" alt="Emile Emery">
+    <img src="{{ page.image_base }}organizing/emile_2.jpg" alt="Emile Emery">
     <p><strong>Emile Emery</strong></p>
     <p><em> LIED, Université Paris Cité, CNRS </em></p>
   </div>
@@ -86,7 +86,7 @@ You can contact us at [wwcs2027@gmail.com](mailto:wwcs2027@gmail.com) or write t
     <p><em>IFISC, Balearic Islands, Spain</em></p>
   </div>
   <div class="committee-member">
-    <img src="{{ page.image_base }}organizing/ele.jpeg" alt="Eleonora Gatti">
+    <img src="{{ page.image_base }}organizing/ele_2.jpg" alt="Eleonora Gatti">
     <p><strong>Eleonora Gatti</strong></p>
     <p><em>University of Konstanz</em></p>
   </div>
