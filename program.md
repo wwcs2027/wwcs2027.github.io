@@ -125,9 +125,10 @@ Since it is a bit early to spoil things out, we will keep some secrets for later
 - Night games and activities.
 
 Please stay tuned to see what kind of non-scientifically related activities we will offer!
-<!--
 
+<!--
 -   Social event in Turin before leaving for the venue. at Casal de barri Es Jonquet (Carrer Terrer, 10).
+
 
 -   Hiking through Tramuntana montains to enjoy Mallorca’s stunning landscapes.
 
@@ -136,7 +137,6 @@ Please stay tuned to see what kind of non-scientifically related activities we w
 -   Wine tasting (with non-alcoholic options available)
 
 -   Night games and activities.
-
 -->
 
 <!--
@@ -316,7 +316,7 @@ Please stay tuned to see what kind of non-scientifically related activities we w
 
             var win = window.open('', '', 'height=700,width=700');
             win.document.write('<html><head><title>Timetable for WWCS 2026</title>' + style + '</head><body>');
--->
+
             win.document.write(sTitle);
             win.document.write(sTable);
             win.document.write('</body></html>');
@@ -325,3 +325,4 @@ Please stay tuned to see what kind of non-scientifically related activities we w
         });
     });
 </script> 
+-->
