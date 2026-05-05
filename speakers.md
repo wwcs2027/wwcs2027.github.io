@@ -67,19 +67,15 @@
 
 <div class="speaker-container">
 
-  <a class="speaker-link" href="https://rafaelprietocuriel.com/home/" target="_blank">
+  <a class="speaker-link" href="https://people.sissa.it/~laio/" target="_blank">
     <div class="speaker-card">
       <div class="speaker-photo">
-        <img src="/assets/image26/speakers/rafael.jpg" alt="Rafael picture">
+        <img src="/assets/image27/speakers/laio.jpg" alt="Laio picture">
       </div>
       <div class="speaker-details">
-        <h3>Rafael Prieto-Curiel</h3>
+        <h3>Alessandro Laio</h3>
         <p>
-          Rafael Prieto-Curiel is a Faculty Member at the Complexity Science Hub, where he works on topics including violence, mobility, migration, and urban dynamics.
-          He works for the OECD and the World Bank, conducting spatial and demographic analyses of cities. He is the Scientific Advisor of Aleph.
-          In 2024, he was awarded the “Science Breakthrough” award by the Falling Walls Foundation.<br>
-          Previously, he was at the Mathematical Institute of the University of Oxford, working on urban dynamics as part of the Peak Urban project. He earned an MSc in Statistics and a PhD in Mathematics and Security and Crime at UCL.
-          He also worked in the Emergency Attention Centre in Mexico City (C5) as Director of Strategic Analysis, where his work primarily consisted of crime forecasting and police and resource allocation.
+          Alessandro Laio is a  professor in the Statistical and Biological Physics sector in the International School for Advanced Studies (SISSA), Trieste. His main work revolves mainly on the development of analysis techniques for complex data landscapes, as well as to the development of algorithms for enhancing the capability of computer simulations to provide predictive answers for complex heterogeneous systems.
         </p>
       </div>
     </div>
@@ -87,7 +83,7 @@
 
 </div>
 
-
+<!--
 <div class="speaker-container">
 
   <a class="speaker-link" href="https://c-cabrera.com/" target="_blank">
@@ -154,3 +150,4 @@
   </a>
 
 </div>
+-->
