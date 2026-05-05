@@ -62,7 +62,7 @@
 }
 </style>
 
-<p>Our invited speakers bring together expertise from across different fields of complex systems science — from human mobility and urban dynamics to network theory, opinion dynamics and linguistics — providing insights into how complexity emerges in nature and society.<br>
+<p>We aim to invite speakers that bring together expertise from across different fields of complex systems science, providing insights into how complexity emerges in nature and society. Stay tuned to see who will join us in such a wonderful experience!<br>
 
 
 <div class="speaker-container">
