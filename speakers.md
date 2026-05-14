@@ -89,13 +89,13 @@
   <a class="speaker-link" href="https://c-cabrera.com/" target="_blank">
     <div class="speaker-card">
       <div class="speaker-photo">
-        <img src="/assets/image26/speakers/carmen.jpg" alt="Carmen picture">
+        <img src="/assets/image26/speakers/carmen.jpg" alt="Silvia picture">
       </div>
       <div class="speaker-details">
-        <h3>Carmen Cabrera-Arnau</h3>
+        <h3>Silvia de Monte</h3>
         <p>
-          Carmen Cabrera is a Lecturer in Geographic Data Science (Assistant Professor) at the Geographic Data Science Lab, within the University of Liverpool’s Department of Geography and Planning. Her areas of expertise are geographic data science, human mobility, network analysis and mathematical modelling. Carmen’s research focuses on developing quantitative frameworks to model and predict human mobility patterns across spatiotemporal scales and population groups, ranging from intraurban commutes to migratory movements. She is particularly interested in establishing methodologies to facilitate the efficient and reliable use of new forms of digital trace data in the study of human movement. <br>
-          Prior to her position as a Lecturer, Carmen completed a BSc in Physics, followed by an MSc in Complex Systems, specialising in Network Analysis. She then did a PhD in Applied Mathematics at University College London (UCL), focusing on the development of mathematical models of social behaviours in urban areas, against the theoretical backdrop of agglomeration economies. After graduating from her PhD in 2021, she was a Research Fellow in Urban Mobility at the Centre for Advanced Spatial Analysis (CASA), at UCL, where she currently holds a honorary position
+          Silvia de Monte is a researcher at the Institute of Biology of École Normale Supérieure in Paris, France, in the Eco-Evo Math group and at the Department for Evolutionary Theory at the Max Planck Institute for Evolutionary Biology in Plön, where she leads the research group Dynamics of Microbial Collectives.
+She has always been fascinated by the collective behaviour of biological populations, and wondered how they can maintain cohesiveness and cooperation despite the possibility that conflicts among the composing units disrupt their functionality. This questioning led her to (temporally) abandon a biology training for one in physics, that provided me with mathematical and methodological tools. Her MsC and PhD allowed her to explore different ways of modelling the ecological and evolutionary dynamics of biological populations, and opened her eyes on the importance of individual heterogeneity in shaping collective behaviour. During her post-doc, she went back to study biology within the master program Interdisciplinary Approaches to Life Sciences, and had the opportunity to work with microbial populations. From then on, she strives to maintain the connection with observational evidence as I develop mathematical methods for the eco-evolutionary dynamics of microbial collectives.
         </p>
       </div>
     </div>
@@ -109,20 +109,12 @@
   <a class="speaker-link" href="https://www.ibe.upf-csic.es/bit-lab" target="_blank">
     <div class="speaker-card">
       <div class="speaker-photo">
-        <img src="/assets/image26/speakers/luis.jpg" alt="Luis picture">
+        <img src="/assets/image26/speakers/luis.jpg" alt="Floriana picture">
       </div>
       <div class="speaker-details">
-        <h3>Luis F Seoane</h3>
+        <h3>Floriana Gargiulo</h3>
         <p>
-          Luis F Seoane is a researcher in Complex Systems—working in that field in a very general sense. He has
-          contributed studies to computational neuroscience, evolutionary dynamics, network theory, econophysics,
-          or linguistics—among others. Very often, these studies tackle how a system’s complexity is changed as
-          the system varies in size, number of components, number of parts, etc; and vice-versa: how a system’s
-          complexity might affect its growth and constituting units. Since July 2025, he works at the Institute for
-          Evolutionary Biology (IBE, UPF-CSIC) in Barcelona, where he heads the BIT Lab. Earlier, he completed
-          postdocs at MIT, IBE, the Institute for Interdisciplinary Physics and Complex Systems (IFISC) in Palma
-          de Mallorca, and the Spanish National Center for Biotechnology (CNB, CSIC) where he first launched the
-          BIT Lab in 2023.
+          Floriana Gargiulo is researcher in Social Science at the laboratory Gemass (Groupe d’Etude des Méthodes de l’Analyse Sociologique de la Sorbonne), based in Paris. After the PhD in physics, her work has gradually shift from the study of Complex Systems to the emerging interdisciplinary field of Computational Social Science, creating a specific profile based on the superposition of data science and modelling tools. During her career she has crossed several theoretical and applied research questions producing publications in: complex networks analysis, dynamics on and of networks, human mobility, opinion dynamics, science of science. In particular in the last years she mostly worked on the attention mechanisms on social media, on the opinion debates about vaccines and on the human behavior inside collaborative projects. She is actually involved in several research projects, in Sociology of Science, related to the epistemic impact of Artificial Intelligence in the scientific and technological ecosystems.
         </p>
       </div>
     </div>
