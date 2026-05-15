@@ -84,6 +84,7 @@
 </div>
 
 
+<!--
 <div class="speaker-container">
 
   <a class="speaker-link" href="https://c-cabrera.com/" target="_blank">
@@ -103,7 +104,6 @@ She has always been fascinated by the collective behaviour of biological populat
 
 </div>
 
-<!--
 <div class="speaker-container">
 
   <a class="speaker-link" href="https://www.ibe.upf-csic.es/bit-lab" target="_blank">
