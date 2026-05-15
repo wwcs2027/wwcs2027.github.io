@@ -83,13 +83,13 @@
 
 </div>
 
-<!--
+
 <div class="speaker-container">
 
   <a class="speaker-link" href="https://c-cabrera.com/" target="_blank">
     <div class="speaker-card">
       <div class="speaker-photo">
-        <img src="/assets/image26/speakers/carmen.jpg" alt="Silvia picture">
+        <img src="/assets/image27/speakers/SilviaDeMonte_0.jpeg" alt="Silvia picture">
       </div>
       <div class="speaker-details">
         <h3>Silvia de Monte</h3>
@@ -103,7 +103,7 @@ She has always been fascinated by the collective behaviour of biological populat
 
 </div>
 
-
+<!--
 <div class="speaker-container">
 
   <a class="speaker-link" href="https://www.ibe.upf-csic.es/bit-lab" target="_blank">
