@@ -87,13 +87,13 @@
 
 <div class="speaker-container">
 
-  <a class="speaker-link" href="https://www.bio.ens.psl.eu/eceem/demonte.html" target="_blank">
+  <a class="speaker-link" href="https://www.evolbio.mpg.de/person/54680/15303" target="_blank">
     <div class="speaker-card">
       <div class="speaker-photo">
         <img src="/assets/image27/speakers/silvia.png" alt="Silvia picture">
       </div>
       <div class="speaker-details">
-        <h3>Silvia de Monte</h3>
+        <h3>Silvia De Monte</h3>
         <p>
           Silvia has always been fascinated by the coherent functioning of biological systems—ranging from microbial populations to societies. As a physicist turned biologist, she seeks to use mathematical models to uncover general principles that structure collective behaviors and underpin their dynamics across ecological and evolutionary timescales. Their findings apply primarily to microbial populations, and particularly to highly diverse plankton communities.
 
