@@ -84,25 +84,28 @@
 </div>
 
 
-<!--
+
 <div class="speaker-container">
 
-  <a class="speaker-link" href="https://c-cabrera.com/" target="_blank">
+  <a class="speaker-link" href="https://www.bio.ens.psl.eu/eceem/demonte.html" target="_blank">
     <div class="speaker-card">
       <div class="speaker-photo">
-        <img src="/assets/image27/speakers/SilviaDeMonte_0.jpeg" alt="Silvia picture">
+        <img src="/assets/image27/speakers/silvia.png" alt="Silvia picture">
       </div>
       <div class="speaker-details">
         <h3>Silvia de Monte</h3>
         <p>
-          Silvia de Monte is a researcher at the Institute of Biology of École Normale Supérieure in Paris, France, in the Eco-Evo Math group and at the Department for Evolutionary Theory at the Max Planck Institute for Evolutionary Biology in Plön, where she leads the research group Dynamics of Microbial Collectives.
-She has always been fascinated by the collective behaviour of biological populations, and wondered how they can maintain cohesiveness and cooperation despite the possibility that conflicts among the composing units disrupt their functionality. This questioning led her to (temporally) abandon a biology training for one in physics, that provided me with mathematical and methodological tools. Her MsC and PhD allowed her to explore different ways of modelling the ecological and evolutionary dynamics of biological populations, and opened her eyes on the importance of individual heterogeneity in shaping collective behaviour. During her post-doc, she went back to study biology within the master program Interdisciplinary Approaches to Life Sciences, and had the opportunity to work with microbial populations. From then on, she strives to maintain the connection with observational evidence as I develop mathematical methods for the eco-evolutionary dynamics of microbial collectives.
+          Silvia has always been fascinated by the coherent functioning of biological systems—ranging from microbial populations to societies. As a physicist turned biologist, she seeks to use mathematical models to uncover general principles that structure collective behaviors and underpin their dynamics across ecological and evolutionary timescales. Their findings apply primarily to microbial populations, and particularly to highly diverse plankton communities.
+
+She received her scientific training in Europe: after studying physics in Milan, Italy, she worked at the Institute of Mathematics at the University of Vienna before earning her PhD in physics at the Technical University of Denmark. She subsequently held a Marie Curie postdoctoral fellowship at École Normale Supérieure in Paris, where she also obtained a Master’s degree in biology. She currently serve as a Research Director at CNRS.
         </p>
       </div>
     </div>
   </a>
 
 </div>
+
+<!--
 
 <div class="speaker-container">
 
