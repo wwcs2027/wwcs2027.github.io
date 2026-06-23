@@ -62,7 +62,7 @@
 }
 </style>
 
-<p>We aim to invite speakers that bring together expertise from across different fields of complex systems science, providing insights into how complexity emerges in nature and society. Stay tuned to see who will join us in such a wonderful experience!<br>
+<p>Our diverse pannel of invited speakers bring together expertise from across different fields of complex systems science — from statistical physics and science of science, passing through the world of ecology— providing insights into how complexity emerges in nature and society.<br>
 
 
 <div class="speaker-container">
