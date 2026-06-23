@@ -105,14 +105,14 @@ She received her scientific training in Europe: after studying physics in Milan,
 
 </div>
 
-<!--
+
 
 <div class="speaker-container">
 
   <a class="speaker-link" href="https://www.ibe.upf-csic.es/bit-lab" target="_blank">
     <div class="speaker-card">
       <div class="speaker-photo">
-        <img src="/assets/image26/speakers/luis.jpg" alt="Floriana picture">
+        <img src="/assets/image27/speakers/floriana.jpeg" alt="Floriana picture">
       </div>
       <div class="speaker-details">
         <h3>Floriana Gargiulo</h3>
@@ -123,7 +123,7 @@ She received her scientific training in Europe: after studying physics in Milan,
     </div>
   </a>
 
-
+<!--
 <div class="speaker-container">
 
   <a class="speaker-link" href="https://ifisc.uib-csic.es/es/people/maxi-san-miguel/" target="_blank">
