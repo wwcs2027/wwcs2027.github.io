@@ -87,7 +87,7 @@
 
 <div class="speaker-container">
 
-  <a class="speaker-link" href="https://www.evolbio.mpg.de/person/54680/15303" target="_blank">
+  <a class="speaker-link" href="https://www.bio.ens.psl.eu/~demonte/" target="_blank">
     <div class="speaker-card">
       <div class="speaker-photo">
         <img src="/assets/image27/speakers/silvia.png" alt="Silvia picture">
