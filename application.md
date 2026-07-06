@@ -37,7 +37,7 @@ The workshop registration fee is 400EUR and it includes:
 
 - Bus from Turin to the accommodation.
 
-The workshop will exclusively be an onsite event.
+The workshop will exclusively be an onsite event. **THE PRICE OF THE WORKSHOP REGISTRATION FEE MAY BE REDUCED IN THE FOLLOWING MONTHS, STAY TUNED!**
 
 ## Accommodation
 
