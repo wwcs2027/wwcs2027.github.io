@@ -25,7 +25,9 @@ We aim to create an inclusive, diverse, sociable, and motivated group of young r
 
 ## Registration 
 
-The workshop registration fee is 400EUR and it includes:
+The workshop registration fee is 400EUR[¹] and it includes:
+
+[¹]: The price of this registration fee may change depending on multiple factors. We will update it if needed before the event takes place, so stay tuned!
 
 - Accommodation from Sunday to Friday (5 nights).
 
@@ -37,7 +39,7 @@ The workshop registration fee is 400EUR and it includes:
 
 - Bus from Turin to the accommodation.
 
-The workshop will exclusively be an onsite event. **THE PRICE OF THE WORKSHOP REGISTRATION FEE MAY BE REDUCED IN THE FOLLOWING MONTHS, STAY TUNED!**
+The workshop will exclusively be an onsite event.
 
 ## Accommodation
 
