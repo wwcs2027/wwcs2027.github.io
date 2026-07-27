@@ -14,7 +14,7 @@ title: Winter Workshop on Complex Systems 2027
 </style>
 
 <center>
-  <img src="{{ page.image_base }}version_2.png" style="width: 50%;" />
+  <img src="{{ page.image_base }}WWCS27_logo.png" style="width: 50%;" />
 </center>
 
 The **Winter Workshop on Complex Systems** is a one-week event where young researchers worldwide come together to work on interdisciplinary projects  in the field of complex systems.
