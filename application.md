@@ -47,7 +47,13 @@ We will provide you shared rooms at [Le Clos du Vas](https://www.lluc.net/en/) i
 
 # Grants
 
-We are working as hard as we can to make sure that everyone who is interested in the winter school has a fair chance to attend. More information on grants will be given once the application process has started.
+We are working as hard as we can to make sure that everyone who is interested in the winter school has a fair chance to attend. More information on grants may be given once the application process has started, so please keep checking our website and socials so that you don't miss out!
+
+## Scholarships for Events on Complex Systems (SECS)
+
+The Young Researchers of the Complex Systems Society offer a Scholarship for Events on Complex Systems (SECS) to encourage young scientists to participate in events related to complexity science. **As WWCS organizers, we have no control over these grants, and these are not exclusive to WWCS participants but to everyone attending any event. However, if you have any financial difficulties, we strongly encourage you to apply after receiving confirmation of acceptance.**
+
+Find more information on how to apply at [their website](https://yrcss.cssociety.org/grants/secs/).
 
 <!--
 
