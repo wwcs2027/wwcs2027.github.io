@@ -31,9 +31,9 @@ The workshop already has a long history — you can learn more about its journey
 
 ## Applications:
 
-- Start of applications: **TBD**
-- Deadline for applications: <!--<del>October 6th</del>--> **TBD**
-- Notification of acceptance: **TBD**
+- Start of applications: **14/09/2026**
+- Deadline for applications: **04/10/2026**
+- Notification of acceptance: **01/11/2026**
 
 <!--As applications are now closed,--> Further information regarding the procedure is available in the [Application](https://wwcs2027.github.io/application) section.
 
