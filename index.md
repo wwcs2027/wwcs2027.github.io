@@ -33,7 +33,7 @@ The workshop already has a long history — you can learn more about its journey
 
 - Start of applications: **14/09/2026**
 - Deadline for applications: **04/10/2026**
-- Notification of acceptance: **01/11/2026**
+- Notification of acceptance: **06/11/2026**
 
 <!--As applications are now closed,--> Further information regarding the procedure is available in the [Application](https://wwcs2027.github.io/application) section.
 
