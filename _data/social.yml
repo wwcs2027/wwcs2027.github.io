@@ -202,3 +202,7 @@ paypal:
 download:
   name: Download
   icon: icon-box-add
+bluesky:
+  name: Bluesky
+  icon: bluesky
+  url: "https://bsky.app/profile/%s"
