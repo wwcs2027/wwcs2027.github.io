@@ -8,16 +8,13 @@ title:  Application
         }
 </style>
 
-<!-- 
-Applications are now closed! Don’t worry if you missed the deadline — this workshop takes place every year, so you’ll get another chance next time. Bear in mind the following dates:
--->
-We are still finishing the details to make sure this edition turns out to be unforgettable! Hence, no deadlines yet. Please stay tuned if you're that eager to come, and email us <a href="mailto:wwcs2026@gmail.com"> here </a> for any question/query/comment!
+We are still finishing the details to make sure this edition turns out to be unforgettable! Tentative deadlines are given below. Please stay tuned if you're that eager to come, and email us <a href="mailto:wwcs2027@gmail.com"> here </a> for any question/query/comment!
 
-- Start of applications: **TBD**
+- Start of applications: **September 14th 2026**
 
-- Deadline for applications: **TBD**
+- Deadline for applications: **October 4th 2026**
 
-- Notification of acceptance: **TBD**
+- Notification of acceptance: **November 6th 2026**
 
 We aim to create an inclusive, diverse, sociable, and motivated group of young researchers. Excellent applicants with no previous experiences with complexity research will also be considered. In the last years, 20-30% of applicants were invited to attend the Winter Workshop.
 
