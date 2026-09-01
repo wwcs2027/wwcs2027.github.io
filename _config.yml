@@ -44,7 +44,7 @@ keywords:              []
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                wwcs2027
-  email:               wwcs2076@gmail.com
+  email:               wwcs2027@gmail.com
   # Used by `jekyll-seo-tag`:
   social:
     twitter:             winter_complex
