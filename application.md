@@ -40,7 +40,7 @@ The workshop will exclusively be an onsite event.
 
 ## Accommodation
 
-We will provide you shared rooms at [Le Clos du Vas](https://www.lluc.net/en/) in the mountains of the Hautes-Alps, in Briançon. More information available in the [Venue](https://wwcs2027.github.io/venue/) section.
+We will provide you shared rooms at [Le Clos du Vas]([https://www.lluc.net/en/](https://archipel-vacances.fr/le-clos-du-vas/)) in the mountains of the Hautes-Alps, in Briançon. More information available in the [Venue](https://wwcs2027.github.io/venue/) section.
 
 # Grants
 
