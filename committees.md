@@ -96,7 +96,7 @@ You can contact us at [wwcs2027@gmail.com](mailto:wwcs2027@gmail.com) or write t
     <p><em> Department of Mathematics, Universidad Carlos III de Madrid </em></p>
   </div>
   <div class="committee-member">
-    <img src="{{ page.image_base }}organizing/carlo2.jpeg" alt="Carlotta Nunzi">
+    <img src="{{ page.image_base }}organizing/carlo3.jpeg" alt="Carlotta Nunzi">
     <p><strong>Carlotta Nunzi</strong></p>
     <p><em>IFISC, Balearic Islands, Spain</em></p>
   </div>
