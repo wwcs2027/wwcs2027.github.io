@@ -8,7 +8,7 @@ title:  Application
         }
 </style>
 
-We are still finishing the details to make sure this edition turns out to be unforgettable! Tentative deadlines are given below. Please stay tuned if you're that eager to come, and email us <a href="mailto:wwcs2027@gmail.com"> here </a> for any question/query/comment!
+**THE APPLICATION PROCESS IS NOW OPEN!** Please stay tuned for possible changes, and email us <a href="mailto:wwcs2027@gmail.com"> here </a> for any question/query/comment!
 
 - Start of applications: **September 14th 2026**
 
@@ -18,13 +18,13 @@ We are still finishing the details to make sure this edition turns out to be unf
 
 We aim to create an inclusive, diverse, sociable, and motivated group of young researchers. Excellent applicants with no previous experiences with complexity research will also be considered. In the last years, 20-30% of applicants were invited to attend the Winter Workshop.
 
-<!-- **The application form is available [here](https://forms.gle/C8hbYthPL9AQK62A8) until October 13th.** -->
+**The application form is available [here](https://forms.gle/shbb67Pu3LqBZvQv7) until October 4th.** 
 
 ## Registration 
 
-The workshop registration fee is 400EUR[^1] and it includes:
+The workshop registration fee is 400-450EUR[^1] and it includes:
 
-[^1]: The price of this registration fee may change depending on multiple factors. We will update it if needed before the event takes place, so stay tuned!
+[^1]: The price of this registration fee will be momentarily kept as a range, however we aim for this fee to be as low as possible. Please check our website and socials for updates, and email us for further information if needed.
 
 - Accommodation from Sunday to Friday (5 nights).
 
@@ -44,7 +44,9 @@ We will provide you shared rooms at [Le Clos du Vas]([https://www.lluc.net/en/](
 
 # Grants
 
-We are always working as hard as we can to make sure that everyone who is interested in the winter school has a fair chance to attend. More information on grants may be given once the application process has started, so please keep checking our website and socials so that you don't miss out! If you have any questions about the application process, feel free to <a href="mailto:wwcs2027@gmail.com?Subject=Consultation%20about%20the%20application%20process">contact us by email</a>.
+We are always working as hard as we can to make sure that everyone who is interested in the winter school has a fair chance to attend. More information on grants may be given once the application process has started, so please keep checking our website and socials so that you don't miss out! 
+
+For any questions about the application process, feel free to <a href="mailto:wwcs2027@gmail.com?Subject=Consultation%20about%20the%20application%20process">contact us by email</a>.
 
 ## Travel grant
 
