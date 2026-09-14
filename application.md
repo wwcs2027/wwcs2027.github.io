@@ -44,7 +44,11 @@ We will provide you shared rooms at [Le Clos du Vas]([https://www.lluc.net/en/](
 
 # Grants
 
-We are working as hard as we can to make sure that everyone who is interested in the winter school has a fair chance to attend. More information on grants may be given once the application process has started, so please keep checking our website and socials so that you don't miss out!
+We are always working as hard as we can to make sure that everyone who is interested in the winter school has a fair chance to attend. More information on grants may be given once the application process has started, so please keep checking our website and socials so that you don't miss out! If you have any questions about the application process, feel free to <a href="mailto:wwcs2027@gmail.com?Subject=Consultation%20about%20the%20application%20process">contact us by email</a>.
+
+## Travel grant
+
+We aim to enable all students independent of financial means to attend the winter school. Therefore, we have reserved a limited budget for travel grants. If you are applying for a travel grant, you may upload a separate motivation letter and a list of the needed funds in the application (a different document that the cover letter for the application). With the acceptance letter, we will notify you with how much money we can support you. In case the required budget exceeds the available funds, we might not be able to cover all your needed costs.
 
 ## Scholarships for Events on Complex Systems (SECS)
 
@@ -55,10 +59,6 @@ Find more information on how to apply at [their website](https://yrcss.cssociety
 <!--
 
 We want to make sure that everyone who is interested in the winter school has a fair chance to attend. To support participants who may not have sufficient funding, we offer a limited number of grants. If you would like to be considered, please indicate this in the application form and include a short motivation letter. This helps us make sure the grants are distributed fairly. If you have any questions about the application process, feel free to <a href="mailto:wwcs2026@gmail.com?Subject=Consultation%20about%20the%20application%20process">contact us by email</a>.
-
-## Travel grant
-
-We hope to enable all students independent of financial means to attend the winter school. Therefore, we have reserved a limited budget for travel grants. If you are applying for a travel grant, you may upload a separate motivation letter and a list of the needded funds in the application (a different document that the cover letter for the application). With the acceptance letter, we will notify you with how much money we can support you. In case the required budget exceeds the available funds, we might not be able to cover all your needed costs.
 
 -->
 
