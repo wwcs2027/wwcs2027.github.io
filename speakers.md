@@ -62,7 +62,7 @@
 }
 </style>
 
-<p>Our diverse pannel of invited speakers bring together expertise from across different fields of complex systems science — from statistical physics and science of science, passing through the world of ecology— providing insights into how complexity emerges in nature and society.<br>
+<p>Our diverse panel of invited speakers bring together expertise from across different fields of complex systems science — from statistical physics and science of science, passing through the world of ecology— providing insights into how complexity emerges in nature and society.<br>
 
 
 <div class="speaker-container">
@@ -109,7 +109,7 @@ She received her scientific training in Europe: after studying physics in Milan,
 
 <div class="speaker-container">
 
-  <a class="speaker-link" href="https://www.ibe.upf-csic.es/bit-lab" target="_blank">
+  <a class="speaker-link" href="https://www.gemass.fr/member/gargiulo-floriana/?lang=en" target="_blank">
     <div class="speaker-card">
       <div class="speaker-photo">
         <img src="/assets/image27/speakers/floriana.jpeg" alt="Floriana picture">
