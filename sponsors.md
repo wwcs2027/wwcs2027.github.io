@@ -56,7 +56,7 @@
   <a class="sponsor-link" href="https://link.springer.com/journal/13688" target="_blank">
     <div class="sponsor-card">
       <div class="sponsor-logo">
-        <img src="/assets/image27/sponsors/EPJ DS cover(1).png"
+        <img src="/assets/image27/sponsors/EPJ_DS_header.png"
              alt="EPJ Data Science">
       </div>
       <div class="sponsor-details">
