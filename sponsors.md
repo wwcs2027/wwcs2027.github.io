@@ -23,14 +23,14 @@
   transform: translateY(-4px);
 }
 
-.sponsor-logo { 
-  max-width: 450px; 
-  margin-bottom: 1rem; 
+.sponsor-logo {
+  max-width: 450px;
+  margin-bottom: 1rem;
 }
 
 .sponsor-logo img {
-  height: 100px;     /* fixes height */
-  width: auto;       /* keep aspect ratio */
+  height: 100px;
+  width: auto;
   object-fit: contain;
 }
 
@@ -51,17 +51,26 @@
 }
 </style>
 
-<a class="sponsor-link" href="https://link.springer.com/journal/13688" target="_blank">
+<div class="sponsor-container">
+
+  <a class="sponsor-link" href="https://link.springer.com/journal/13688" target="_blank">
     <div class="sponsor-card">
       <div class="sponsor-logo">
-        <img src="/assets/image27/sponsors/EPJ DS cover(1).png" alt="EPJ Data Science">
+        <img src="/assets/image27/sponsors/EPJ DS cover(1).png"
+             alt="EPJ Data Science">
       </div>
       <div class="sponsor-details">
         <h3>EPJ Data Science</h3>
-        <p>  <i>EPJ Data Science is an open access journal focusing on new scientific methods for analyzing and synthesizing massive data sets to achieve new insights into societal phenomena</p>
+        <p>
+          <i>EPJ Data Science</i> is an open access journal focusing on
+          new scientific methods for analyzing and synthesizing massive
+          data sets to achieve new insights into societal phenomena.
+        </p>
       </div>
     </div>
   </a>
+
+</div>
 
 
 <!--
