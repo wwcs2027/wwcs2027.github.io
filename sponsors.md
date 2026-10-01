@@ -51,6 +51,19 @@
 }
 </style>
 
+<a class="sponsor-link" href="https://journals.plos.org/complexsystems/" target="_blank">
+    <div class="sponsor-card">
+      <div class="sponsor-logo">
+        <img src="/assets/image26/sponsors/PLOS_CSY_logo.jpg" alt="EPJ Data Science">
+      </div>
+      <div class="sponsor-details">
+        <h3>EPJ Data Science</h3>
+        <p>  <i>EPJ Data Science is an open access journal focusing on new scientific methods for analyzing and synthesizing massive data sets to achieve new insights into societal phenomena</p>
+      </div>
+    </div>
+  </a>
+
+
 <!--
 
 <div class="sponsor-container">
