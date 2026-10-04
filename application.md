@@ -12,13 +12,13 @@ title:  Application
 
 - Start of applications: **September 14th 2026**
 
-- Deadline for applications: **October 4th 2026**
+- Deadline for applications: <del>October 4th 2026</del> **EXTENDED UNTIL October 11th (23:59 CEST)**
 
 - Notification of acceptance: **November 6th 2026**
 
 We aim to create an inclusive, diverse, sociable, and motivated group of young researchers. Excellent applicants with no previous experiences with complexity research will also be considered. In the last years, 20-30% of applicants were invited to attend the Winter Workshop.
 
-**The application form is available [here](https://forms.gle/shbb67Pu3LqBZvQv7) until October 4th.** 
+**The application form is available [here](https://forms.gle/shbb67Pu3LqBZvQv7) until October 11th.** 
 
 ## Registration 
 
