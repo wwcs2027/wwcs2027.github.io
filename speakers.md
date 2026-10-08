@@ -67,26 +67,6 @@
 
 <div class="speaker-container">
 
-  <a class="speaker-link" href="https://people.sissa.it/~laio/" target="_blank">
-    <div class="speaker-card">
-      <div class="speaker-photo">
-        <img src="/assets/image27/speakers/laio.jpg" alt="Laio picture">
-      </div>
-      <div class="speaker-details">
-        <h3>Alessandro Laio</h3>
-        <p>
-          Alessandro Laio is a  professor in the Statistical and Biological Physics sector in the International School for Advanced Studies (SISSA), Trieste. His main work revolves mainly on the development of analysis techniques for complex data landscapes, as well as to the development of algorithms for enhancing the capability of computer simulations to provide predictive answers for complex heterogeneous systems.
-        </p>
-      </div>
-    </div>
-  </a>
-
-</div>
-
-
-
-<div class="speaker-container">
-
   <a class="speaker-link" href="https://www.bio.ens.psl.eu/~demonte/" target="_blank">
     <div class="speaker-card">
       <div class="speaker-photo">
@@ -122,6 +102,25 @@ She received her scientific training in Europe: after studying physics in Milan,
       </div>
     </div>
   </a>
+
+  
+<div class="speaker-container">
+
+  <a class="speaker-link" href="https://people.sissa.it/~laio/" target="_blank">
+    <div class="speaker-card">
+      <div class="speaker-photo">
+        <img src="/assets/image27/speakers/laio.jpg" alt="Laio picture">
+      </div>
+      <div class="speaker-details">
+        <h3>Alessandro Laio</h3>
+        <p>
+          Alessandro Laio is a  professor in the Statistical and Biological Physics sector in the International School for Advanced Studies (SISSA), Trieste. His main work revolves mainly on the development of analysis techniques for complex data landscapes, as well as to the development of algorithms for enhancing the capability of computer simulations to provide predictive answers for complex heterogeneous systems.
+        </p>
+      </div>
+    </div>
+  </a>
+
+</div>
 
 <!--
 <div class="speaker-container">
