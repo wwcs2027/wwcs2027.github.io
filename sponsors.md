@@ -70,6 +70,30 @@
     </div>
   </a>
 
+  <a class="sponsor-link" href="https://ifisc.uib-csic.es/en/" target="_blank">
+    <div class="sponsor-card">
+      <div class="sponsor-logo">
+        <img src="/assets/image26/sponsors/ifisc.png" alt="IFISC logo">
+      </div>
+      <div class="sponsor-details">
+        <h3>Institute for Cross-Disciplinary Physics and Complex Systems (IFISC)</h3>
+        <p>IFISC is a joint research institute of the UIB and the Spanish National Research Council (CSIC) whose mission is to develop cross-disciplinary and strategic research in complex systems. In 2018, IFISC received the prestigious "Unit of Excellence" María de Maeztu Award from the Spanish Research Agency (AEI), which recognises research institutions with highly competitive strategic programmes operating at the forefront of scientific knowledge.</p>
+      </div>
+    </div>
+  </a>
+
+  <a class="sponsor-link" href="http://css-fr.org/" target="_blank">
+    <div class="sponsor-card">
+      <div class="sponsor-logo">
+        <img src="/assets/image27/sponsors/CSS_FR_logo.png" alt="CSS/FR, Société Française des Systèmes Complexes">
+      </div>
+      <div class="sponsor-details">
+        <h3>Société Française des Systèmes Complexes (CSS/FR)</h3>
+        <p>CSS/FR is the French Local Chapter of the Complex Systems Society. It promotes complex systems research at the national level and is supported by numerous French researchers and major research centers, including ISC-PIF and IXXI. It creates links between the French research centers working in this field and contributes to the international visibility of French research on complex systems.</p>
+      </div>
+    </div>
+  </a>
+
 </div>
 
 
